@@ -1,0 +1,25 @@
+.card_container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 35px;
+    row-gap: 15px;
+    padding: 15px;
+}
+.input_container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.select_card{
+    width: 100%;
+    padding: 20px 5px;
+    span{
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
+
